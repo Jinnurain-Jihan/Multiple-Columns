@@ -1,0 +1,11 @@
+div{
+    column-count: 4;
+    text-align: justify;
+    column-gap: 30px;
+    column-rule: 1px solid #000;
+    column-width: 200px;
+}
+h1{
+    column-span: all;
+    text-align: center;
+}
